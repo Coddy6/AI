@@ -1,0 +1,9 @@
+# ninja log v5
+2	1974	7301011943557557	Perceptron_autogen/timestamp	4905b5b93ac7537a
+2	1974	7301011943557557	Perceptron_autogen/mocs_compilation.cpp	4905b5b93ac7537a
+2	1974	7301011943557557	C:/Users/aspra/OneDrive/Documentos/build-Perceptron-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Perceptron_autogen/timestamp	4905b5b93ac7537a
+2	1974	7301011943557557	C:/Users/aspra/OneDrive/Documentos/build-Perceptron-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Perceptron_autogen/mocs_compilation.cpp	4905b5b93ac7537a
+2006	5381	7301011980609855	CMakeFiles/Perceptron.dir/main.cpp.obj	187d0c67504b3777
+1976	5414	7301011980900655	CMakeFiles/Perceptron.dir/Perceptron_autogen/mocs_compilation.cpp.obj	91f01faaa088c28e
+1999	7846	7301012005391093	CMakeFiles/Perceptron.dir/mainwindow.cpp.obj	47b5c36966315763
+7848	8388	7301012010495735	Perceptron.exe	190aae07751e61e7
